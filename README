@@ -13,7 +13,7 @@ Calculating standard deviation is very important in any statistical analysis.
 ### Installation
 
 
-devtools::install_github("hntek/deviation ")
+devtools::install_github("hntek/deviation")
 
 
 ### Quick demo
