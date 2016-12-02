@@ -18,6 +18,6 @@ Standard Deviation
 This function calculates the standard deviation of input vector.
 }
 \examples{
-standard_standard_deviation(c(2,6,7,8))
+standard_deviation(c(2,6,7,8))
 }
 
