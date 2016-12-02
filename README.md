@@ -13,7 +13,7 @@ Type command below in R console;
 
 #Quick demo
 
-Calculating standard deviation
+### Calculating standard deviation
 
 1) load library in R
 
@@ -21,14 +21,24 @@ Calculating standard deviation
 
 2) enter a vector of numbers in the function
 
- ```standard_deviation(c(2,3,5))```
+ ```
+standard_deviation(c(2,3,5))
+```
 
-```[1] 1.247219```
+```
+[1] 1.247219
+
+```
 
 
 
-Calculating standard error via `standard_error()`:
+### Calculating standard error via `standard_error()`:
 
-```standard_error(c(1,1,1,1))```
+```
+standard_error(c(1,1,1,1))
+```
 
-``` [1] 0.0```
+
+```
+[1] 0.0
+```
