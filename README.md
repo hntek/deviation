@@ -26,3 +26,9 @@ Calculating standard deviation
 ```[1] 1.247219```
 
 
+
+Calculating standard error via `standard_error()`:
+
+```standard_error(c(1,1,1,1))```
+
+``` [1] 0.0```
