@@ -14,3 +14,6 @@ standard_deviation <- function(x) {
   stddev = sqrt(ssq/n)
   return(stddev)
 }
+
+
+standard_error <- function(x) standard_deviation(x)/sqrt(length(x))

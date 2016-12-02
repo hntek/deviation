@@ -20,6 +20,13 @@ devtools::install_github("hntek/deviation")
 
 Calculating standard deviation via `standard_deviation()`:
 
-
 library(deviation)
 standard_deviation(c(1,2,3,5))
+
+# expected output: 1.47902
+
+Calculating standard error via `standard_error()`:
+
+standard_error(c(1,1,1,1))
+
+# expected output: 0.0
