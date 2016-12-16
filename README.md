@@ -10,6 +10,9 @@ Type command below in R console;
 
 `devtools::install_github("hntek/deviation")`
 
+# Travis CI 
+
+[![Build Status](https://travis-ci.org/hntek/deviation.svg?branch=master)](https://travis-ci.org/hntek/deviation)
 
 #Quick demo
 
